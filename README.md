@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Ask me about:
+- UI/UX practices
+- Polkadot Network and Blockchain
+- Frontend languages like React or JavaScript
+- Technical Blogging 
+
+### How to reach me:
+- [Personal Website](https://kirstenrichard.webflow.io/)
+- [LinkedIn](https://www.linkedin.com/in/kirsten-r-94804413b/)
