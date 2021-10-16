@@ -1,4 +1,18 @@
-### Hi there 👋
+## Hi there 👋
+
+I'm Kirsten Richard, a Front End Engineer and recent CS grad @ Dalhousie. 
+
+### 😄 Some of my passions:
+- Building websites, UI's, and apps
+- Travelling and studying cultures
+- Blockchain and Cryptocurrency
+- Learning new technologies and languages
+- Working with teams on technical projects
+
+### 🌱 Currently learning:
+- Ruby on Rails 
+- React Native
+- German
 
 <!--
 **krichard410/krichard410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +29,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Ask me about:
-- UI/UX practices
+### 💬 Ask me about:
+- Front End Development 
 - Polkadot Network and Blockchain
-- Frontend languages like React or JavaScript
-- Technical Blogging 
+- Java, React, R
+- DevRel 
 
-### How to reach me:
-- [Personal Website](https://kirstenrichard.webflow.io/)
-- [LinkedIn](https://www.linkedin.com/in/kirsten-r-94804413b/)
+### 📫 How to reach me:
+- [Personal Website](https://kirsten-richard.herokuapp.com/)
+- [LinkedIn](https://www.linkedin.com/in/kirsten-richard/)
