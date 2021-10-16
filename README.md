@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-I'm Kirsten Richard, a Front End Engineer and recent CS grad @ Dalhousie. 
-
 ### 😄 Some of my passions:
 - Building websites, UI's, and apps
 - Travelling and studying cultures
