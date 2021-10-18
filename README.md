@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 - Polkadot Network and Blockchain
 - Java, React, R
 - DevRel 
+- Advice for entering the tech industry & Mentorship
 
 ### 📫 How to reach me:
 - [Personal Website](https://kirsten-richard.herokuapp.com/)
