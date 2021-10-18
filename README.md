@@ -6,6 +6,7 @@
 - Blockchain and Cryptocurrency
 - Learning new technologies and languages
 - Working with teams on technical projects
+- Front end technologies, like React and Vue
 
 ### 🌱 Currently learning:
 - Ruby on Rails 
