@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 - Polkadot Network and Blockchain
 - Java, React, R
 - DevRel 
+- Data Structures & Algorithms
 - Advice for working in the tech industry & mentorship
 
 ### 📫 How to reach me:
