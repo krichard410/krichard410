@@ -8,9 +8,10 @@
 - Working with teams on technical projects
 - Front end technologies, like React and Vue
 
-### 🌱 Currently learning:
+### 🌱 Currently learning and working on:
 - Ruby on Rails 
 - React Native
+- Python
 - German
 
 <!--
