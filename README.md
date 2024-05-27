@@ -6,7 +6,7 @@
 - Blockchain and Cryptocurrency
 - Learning new technologies and languages
 - Working with teams on technical projects
-- Front end technologies, like React
+- Front end technologies like React
 
 ### 🌱 Currently learning and working on:
 - German
@@ -29,9 +29,8 @@ Here are some ideas to get you started:
 ### 💬 Ask me about:
 - Front End Development 
 - Polkadot Network and Blockchain
-- Java, React, R
+- JavaScript and Apex (Salesforce)
 - DevRel 
-- Data Structures & Algorithms
 - Advice for working in the tech industry & mentorship
 
 ### 📫 How to reach me:
