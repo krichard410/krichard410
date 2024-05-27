@@ -1,17 +1,14 @@
 ## Hi there 👋
 
 ### 😄 Some of my passions:
-- Building websites, UI's, and apps
+- Building websites
 - Travelling and studying cultures
 - Blockchain and Cryptocurrency
 - Learning new technologies and languages
 - Working with teams on technical projects
-- Front end technologies, like React and Vue
+- Front end technologies, like React
 
 ### 🌱 Currently learning and working on:
-- Ruby on Rails 
-- React Native
-- Python
 - German
 
 <!--
@@ -38,5 +35,5 @@ Here are some ideas to get you started:
 - Advice for working in the tech industry & mentorship
 
 ### 📫 How to reach me:
-- [Personal Website](https://kirsten-richard.herokuapp.com/)
+- [Personal Website](https://kirstenr.netlify.app/)
 - [LinkedIn](https://www.linkedin.com/in/kirsten-richard/)
