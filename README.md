@@ -1,12 +1,11 @@
 ## Hi there 👋
 
 ### 😄 Some of my passions:
-- Building websites
 - Travelling and studying cultures
+- Salesforce development
 - Blockchain and Cryptocurrency
 - Learning new technologies and languages
-- Working with teams on technical projects
-- Front end technologies like React
+- Working with teams on projects
 
 ### 🌱 Currently learning and working on:
 - German
