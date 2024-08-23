@@ -31,7 +31,3 @@ Here are some ideas to get you started:
 - JavaScript and Apex (Salesforce)
 - DevRel 
 - Advice for working in the tech industry & mentorship
-
-### 📫 How to reach me:
-- [Personal Website](https://kirstenr.netlify.app/)
-- [LinkedIn](https://www.linkedin.com/in/kirsten-richard/)
